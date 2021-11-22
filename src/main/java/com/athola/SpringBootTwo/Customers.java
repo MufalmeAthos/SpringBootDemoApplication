@@ -55,7 +55,7 @@ public class Customers {
 
    
     public void diplayer(){
-        System.out.println("Object created successfully");
+        System.out.println("Object created successfully, On my birthday");
         techdetails.techs();
     }
     

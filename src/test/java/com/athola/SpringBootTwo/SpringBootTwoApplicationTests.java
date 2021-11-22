@@ -8,6 +8,7 @@ class SpringBootTwoApplicationTests {
 
 	@Test
 	void contextLoads() {
+            //Sasa apa tuna bi ingiya amo juh ni anniv yangu
 	}
 
 }
